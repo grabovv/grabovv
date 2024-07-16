@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Dominik!
 
-### About Me
+### 👨🏻‍💻 About Me
 
 ⚙️ **Automation Enthusiast** | 🤖 **Code Wizard** | 🌟 **Efficiency Seeker**
 
@@ -8,7 +8,7 @@ I am passionate about leveraging automation to minimize errors and optimize work
 
 ### 🔧 Languages & Tools
 - **Programming/Scripting Languages:** Python 🐍, Powershell 🌐, Bash 🖥️, JavaScript 🌐
-- **Tools & Technologies:** Git 🚀, Selenium 🕷️, MySQL 🗄️, Ansible 📜, ELK Stack 📚
+- **Tools & Technologies:** Git 🚀, Selenium 🕷️, MySQL 🗄️, Ansible 📜, ELK Stack 📚, RESTful APIs 📡
 
 ### 📫 How to Reach Me
 - **GitHub:** https://github.com/grabovv

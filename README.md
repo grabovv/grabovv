@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi there! I'm Dominik!
 
-<!--
-**grabovv/grabovv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+⚙️ **Automation Enthusiast** | 🤖 **Code Wizard** | 🌟 **Efficiency Seeker**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about leveraging automation to minimize errors and optimize workflows. By automating repetitive tasks, we can focus on innovation and achieving more with less effort.
+
+### 🔧 Languages & Tools
+- **Programming/Scripting Languages:** Python 🐍, Powershell 🌐, Bash 🖥️, JavaScript 🌐
+- **Tools & Technologies:** Git 🚀, Selenium 🕷️, MySQL 🗄️, Ansible 📜, ELK Stack 📚
+
+### 📫 How to Reach Me
+- **GitHub:** https://github.com/grabovv
+- **LinkedIn:** https://www.linkedin.com/in/dominik-grabowski/
+- **My Site:** https://dominikgrabowski.pl
+
+Let's connect and automate all the things! 🚀

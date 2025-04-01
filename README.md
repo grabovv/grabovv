@@ -8,7 +8,7 @@ I am passionate about leveraging automation to minimize errors and optimize work
 
 ### 🔧 Languages & Tools
 - **Programming/Scripting Languages:** Python 🐍, Powershell 🌐, Bash 🖥️, JavaScript 🌐
-- **Tools & Technologies:** Git 🚀, Selenium 🕷️, MySQL 🗄️, Ansible 📜, ELK Stack 📚, RESTful APIs 📡, Node-RED 🔴
+- **Tools & Technologies:** Git 🚀, Selenium 🕷️, MySQL/SQLite/PostgreSQL 🗄️, Ansible 📜, ELK Stack 📚, RESTful APIs 📡, Node-RED 🔴
 
 ### 📫 How to Reach Me
 - **GitHub:** https://github.com/grabovv
